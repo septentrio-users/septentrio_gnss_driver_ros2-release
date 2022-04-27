@@ -1,0 +1,12 @@
+Source: ros-foxy-septentrio-gnss-driver
+Section: misc
+Priority: optional
+Maintainer: Septentrio <githubuser@septentrio.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, libgeographic-dev, libpcap0.8-dev, ros-foxy-ament-cmake, ros-foxy-diagnostic-msgs, ros-foxy-geometry-msgs, ros-foxy-gps-msgs, ros-foxy-nav-msgs, ros-foxy-nmea-msgs, ros-foxy-rclcpp, ros-foxy-rclcpp-components, ros-foxy-rosidl-default-generators, ros-foxy-sensor-msgs, ros-foxy-tf2, ros-foxy-tf2-geometry-msgs, ros-foxy-tf2-ros, ros-foxy-ros-workspace, ros-foxy-rosidl-typesupport-fastrtps-c, ros-foxy-rosidl-typesupport-fastrtps-cpp, ros-foxy-rosidl-typesupport-connext-c, ros-foxy-rosidl-typesupport-connext-cpp
+Homepage: https://github.com/septentrio-gnss/septentrio_gnss_driver
+Standards-Version: 3.9.2
+
+Package: ros-foxy-septentrio-gnss-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, libgeographic-dev, libpcap0.8-dev, ros-foxy-diagnostic-msgs, ros-foxy-geometry-msgs, ros-foxy-gps-msgs, ros-foxy-nav-msgs, ros-foxy-nmea-msgs, ros-foxy-rclcpp, ros-foxy-rclcpp-components, ros-foxy-rosidl-default-runtime, ros-foxy-sensor-msgs, ros-foxy-tf2, ros-foxy-tf2-geometry-msgs, ros-foxy-tf2-ros, ros-foxy-ros-workspace
+Description: ROSaic: C++ driver for Septentrio's mosaic receivers and beyond

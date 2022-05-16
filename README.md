@@ -1,3 +1,26 @@
+## septentrio_gnss_driver (humble) - 1.2.1-1
+
+The packages in the `septentrio_gnss_driver` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble septentrio_gnss_driver --edit` on `Mon, 16 May 2022 11:55:26 -0000`
+
+The `septentrio_gnss_driver` package was released.
+
+Version of package(s) in repository `septentrio_gnss_driver`:
+
+- upstream repository: https://github.com/septentrio-gnss/septentrio_gnss_driver
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## septentrio_gnss_driver (foxy) - 1.2.1-1
 
 The packages in the `septentrio_gnss_driver` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy --track foxy septentrio_gnss_driver --edit` on `Mon, 16 May 2022 11:50:21 -0000`

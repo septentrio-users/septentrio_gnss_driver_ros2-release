@@ -1,3 +1,26 @@
+## septentrio_gnss_driver (iron) - 1.3.0-1
+
+The packages in the `septentrio_gnss_driver` repository were released into the `iron` distro by running `/home/tibor/anaconda3/envs/shape_al/bin/bloom-release septentrio_gnss_driver --track iron_dev2 --rosdistro iron --edit --override-release-repository-url https://github.com/septentrio-users/septentrio_gnss_driver_ros2-release` on `Thu, 15 Jun 2023 20:28:05 -0000`
+
+The `septentrio_gnss_driver` package was released.
+
+Version of package(s) in repository `septentrio_gnss_driver`:
+
+- upstream repository: https://github.com/septentrio-gnss/septentrio_gnss_driver
+- release repository: https://github.com/ros2-gbp/septentrio_gnss_driver_ros2-release.git
+- rosdistro version: `1.2.3-3`
+- old version: `null`
+- new version: `1.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## septentrio_gnss_driver (galactic) - 1.3.0-2
 
 The packages in the `septentrio_gnss_driver` repository were released into the `galactic` distro by running `/home/tibor/anaconda3/envs/shape_al/bin/bloom-release septentrio_gnss_driver --track galactic_dev2 --rosdistro galactic --edit --override-release-repository-url https://github.com/septentrio-users/septentrio_gnss_driver_ros2-release` on `Thu, 15 Jun 2023 20:15:26 -0000`
